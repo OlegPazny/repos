@@ -1,2 +1,3 @@
 # repos
-lab1
+Oleg Basalay
+9-Design
